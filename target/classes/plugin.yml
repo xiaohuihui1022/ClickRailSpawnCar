@@ -1,0 +1,4 @@
+name: ClickRailSpawnCar
+version: '1.0'
+main: huihui.crsc.ClickRailSpawnCar
+api-version: 1.16
